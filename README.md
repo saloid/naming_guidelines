@@ -15,3 +15,6 @@ If you project have at list two nodes, and both of them can send and recive mess
 #### Good usage:
  * `to_server/to_requester` - 
  * `request/responce` - 
+
+### The newest/oldest instead of "latest"
+"Latest" record can be old and new. Instead this name it "new record", or "most recent" 
