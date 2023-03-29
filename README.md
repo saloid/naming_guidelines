@@ -2,7 +2,7 @@
 
 
 ### Don't use "TX/RX" names for bidirectional transmissions (messages)
-If you project have at list two nodes, and both of them can send and recive messages between each other, don't name this messages "RX/TX" or in any other way, that will flip it's name depending on which side to look from. What is output for sender is input for receiver.
+If you project have at list two nodes, and both of them can send and recive messages between each other, don't name those messages "RX/TX" or in any other way, that will flip it's name depending on which side to look from. What is output for sender is input for receiver.
 
 #### Bad usage:
  * `TX/RX`
